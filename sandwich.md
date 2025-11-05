@@ -2,11 +2,9 @@
 
 ```
 bread
-mayo
-tomato
-lettuce
-chicken
-mayo
+ink
+car tire
+newspaper
 bread
 ```
 
