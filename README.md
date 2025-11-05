@@ -3,5 +3,5 @@
 Here's the todo:
 
 -[x] Create a new file
--[ ] make first commit
+-[x] make first commit
 -[ ] fix tyypos
