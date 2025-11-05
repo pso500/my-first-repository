@@ -2,11 +2,9 @@
 
 ```
 bread
-mayo
-tomato
-lettuce
-chicken
-mayo
+brake fluid
+glass
+acid
 bread
 ```
 
