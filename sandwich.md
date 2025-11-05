@@ -3,6 +3,7 @@
 ```
 bread
 mayo
+tomato
 lettuce
 chicken
 mayo
