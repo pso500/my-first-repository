@@ -2,6 +2,8 @@
 
 ```
 bread
+lettuce
+chicken
 bread
 ```
 
